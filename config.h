@@ -15,4 +15,4 @@ static const Block blocks[] = {
     {""   , "/home/unknowncode/my.scripts/dwm.getPackages.sh"  , 0     , 8}  ,
 };
 
-static char *delim = ",";
+static char *delim = "|";
